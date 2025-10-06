@@ -30,7 +30,7 @@ This project is a full-stack Python + MySQL web application built with Streamlit
 CREATE DATABASE query_management_db;
 ```
 
-* Update `app_run.py` with your MySQL credentials:
+* Update `database.py` with your MySQL credentials:
 
 ```python
 connection = mysql.connector.connect(
