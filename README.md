@@ -28,6 +28,15 @@ This project is a full-stack Python + MySQL web application built with Streamlit
 
 ```sql
 CREATE DATABASE query_management_db;
+python -m venv venv
+# Activate environment
+venv\Scripts\activate      # (Windows)
+
+# Install packages
+pip install -r requirements.txt
+streamlit
+pandas
+mysql
 ```
 
 * Update `database.py` with your MySQL credentials:
