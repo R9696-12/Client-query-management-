@@ -59,7 +59,7 @@ pip install streamlit pandas mysql-connector-python
 ### 3️⃣ Initialize Database
 
 ```bash
-database.py,query.py,app_run.py
+database.py,query.py,app_run.py - all in one at single_app.py
 ```
 
 ### 4️⃣ Run the App
