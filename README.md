@@ -65,7 +65,7 @@ database.py,query.py,app_run.py
 ### 4️⃣ Run the App
 
 ```bash
-streamlit run .vscode\app_run.py
+streamlit run .vscode\single_app.py
 ```
 
 ---
